@@ -12,9 +12,9 @@ The challenge to the 10k commits for the GitHub communities.
 
 ## Goals
 
-To get more than 10k commits in a year.
-To create a product per 300 commits.
-To submit pull requests at least once for some projects in a week.
+* To get more than 10k commits in a year.
+* To create a product per 300 commits.
+* To submit pull requests at least once for some projects in a week.
 
 ## Works
 
